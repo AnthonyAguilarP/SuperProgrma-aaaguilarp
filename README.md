@@ -1,4 +1,4 @@
-# SuperProgrma-aaaguilarp
+# SuperPrograma-aaaguilarp
 Resuelve los ejercicios. Todos los programas deberán mostrar un menú y mostrarlo nuevamente luego de ejecutar la opción digitada y finalizar hasta que el usuario digite el número correspondiente a la opción salir.
 Crea un programa que permita calcular la velocidad de un MRU.
 Crea un programa que permita calcular la altura máxima de un proyectil con trayectoria parabólica.
